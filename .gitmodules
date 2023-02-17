@@ -1,0 +1,6 @@
+[submodule "svampeatlas-android"]
+	path = svampeatlas-android
+	url = https://github.com/CareSupport-ApS/svampeatlas-android.git
+[submodule "svampeatlas-ios"]
+	path = svampeatlas-ios
+	url = https://github.com/CareSupport-ApS/svampeatlas-ios.git
